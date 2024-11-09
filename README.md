@@ -1,6 +1,6 @@
 # Server
 
-A basic server using Node and Express.
+A server using REST-APIs.
 
 ### Installation
 
